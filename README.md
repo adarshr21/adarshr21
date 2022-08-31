@@ -2,7 +2,7 @@
 - 👀 I’m interested in Raw Data
 - 🌱 I’m currently learning Data Science with AI
 - 💞️ I’m looking to collaborate on Data Science Projects
-- 📫 How to reach me 
+- 📫 How to reach me : adarshsiddharth21@gmail.com
 
 <!---
 adarshr21/adarshr21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
